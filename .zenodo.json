@@ -9,7 +9,7 @@
   "description": "<p>Every answer every model gave to the same questions, kept after the models are gone.</p><p>15,805 answers from 377 models to 87 questions, asked between 2024-05-23 and 2026-10-09. 93 of the models are retired: OpenRouter no longer serves them. Drawings as SVG, websites as HTML with screenshots, images, writing, code and audio, each kept as it was given. The collection behind <a href=\"https://museumofmodels.com\">museumofmodels.com</a>.</p>",
   "license": "cc-by-4.0",
   "access_right": "open",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "language": "eng",
   "keywords": [
     "language models",
