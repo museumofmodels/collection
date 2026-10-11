@@ -26,6 +26,8 @@ configs:
 
 Every answer every model gave to the same questions, kept after the models are gone.
 
+https://github.com/user-attachments/assets/f1b7d068-54f7-4304-8636-9427068b2274
+
 15,805 answers from 377 models to 87 questions, asked between 2024-05-23 and 2026-10-09. 93 of the models are retired: OpenRouter no longer serves them, and unless their weights were published nobody can ask them anything again. Their answers are here.
 
 This is the collection behind [museumofmodels.com](https://museumofmodels.com), as published there. Version 1.0.1. DOI [10.5281/zenodo.23306049](https://doi.org/10.5281/zenodo.23306049); [10.5281/zenodo.23305275](https://doi.org/10.5281/zenodo.23305275) always points to the newest version.
