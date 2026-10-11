@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this collection, please cite it as below."
+type: dataset
+title: "Museum of Models collection"
+authors:
+  - name: "Museum of Models"
+    website: "https://museumofmodels.com"
+version: "1.0.0"
+date-released: "2026-10-11"
+license: CC-BY-4.0
+url: "https://museumofmodels.com"
+repository: "https://github.com/nuance-dev/museum-of-models-collection"
+abstract: "Every answer every model gave to the same questions, kept after the models are gone. 15,805 answers from 377 models to 87 questions, asked between 2024-05-23 and 2026-10-09, 93 of the models since retired."
+keywords:
+  - "language models"
+  - "model outputs"
+  - "AI history"
+  - "retired models"
+  - "SVG"
+  - "HTML"
+  - "digital preservation"
