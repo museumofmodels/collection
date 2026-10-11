@@ -28,7 +28,7 @@ Every answer every model gave to the same questions, kept after the models are g
 
 15,805 answers from 377 models to 87 questions, asked between 2024-05-23 and 2026-10-09. 93 of the models are retired: OpenRouter no longer serves them, and unless their weights were published nobody can ask them anything again. Their answers are here.
 
-This is the collection behind [museumofmodels.com](https://museumofmodels.com), as published there. Version 1.0.0.
+This is the collection behind [museumofmodels.com](https://museumofmodels.com), as published there. Version 1.0.0. DOI [10.5281/zenodo.23305276](https://doi.org/10.5281/zenodo.23305276); [10.5281/zenodo.23305275](https://doi.org/10.5281/zenodo.23305275) always points to the newest version.
 
 ## What is in it
 
@@ -112,7 +112,7 @@ Answers are kept as they were given. Some are wrong, some are odd, a few may be 
 
 ## How to cite
 
-Museum of Models. (2026). *Museum of Models collection* (Version 1.0.0) [Data set]. https://github.com/nuance-dev/museum-of-models-collection
+Museum of Models. (2026). *Museum of Models collection* (Version 1.0.0) [Data set]. https://doi.org/10.5281/zenodo.23305276
 
 ```bibtex
 @misc{museum_of_models_collection,
@@ -120,7 +120,8 @@ Museum of Models. (2026). *Museum of Models collection* (Version 1.0.0) [Data se
   author       = {{Museum of Models}},
   year         = {2026},
   version      = {1.0.0},
-  url          = {https://github.com/nuance-dev/museum-of-models-collection},
+  doi          = {10.5281/zenodo.23305276},
+  url          = {https://doi.org/10.5281/zenodo.23305276},
   note         = {CC BY 4.0. https://museumofmodels.com}
 }
 ```
