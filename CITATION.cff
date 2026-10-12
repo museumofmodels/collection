@@ -5,13 +5,13 @@ title: "Museum of Models collection"
 authors:
   - name: "Museum of Models"
     website: "https://museumofmodels.com"
-version: "1.2.0"
+version: "1.3.0"
 date-released: "2026-10-12"
 license: CC-BY-4.0
 url: "https://museumofmodels.com"
 repository: "https://github.com/museumofmodels/collection"
-doi: "10.5281/zenodo.23321348"
-abstract: "Every answer every model gave to the same questions, kept after the models are gone. 18,262 answers from 378 models to 100 questions, asked between 2024-05-23 and 2026-10-12, 101 of the models since retired."
+doi: "10.5281/zenodo.23305275"
+abstract: "Every answer every model gave to the same questions, kept after the models are gone. 18,333 answers from 379 models to 100 questions, asked between 2024-05-23 and 2026-10-12, 101 of the models since retired."
 keywords:
   - "language models"
   - "model outputs"
