@@ -30,7 +30,7 @@ https://github.com/user-attachments/assets/f1b7d068-54f7-4304-8636-9427068b2274
 
 15,908 answers from 378 models to 87 questions, asked between 2024-05-23 and 2026-10-12. 101 of the models are retired: OpenRouter no longer serves them, and unless their weights were published nobody can ask them anything again. Their answers are here.
 
-This is the collection behind [museumofmodels.com](https://museumofmodels.com), as published there. Version 1.1.0. DOI [10.5281/zenodo.23305275](https://doi.org/10.5281/zenodo.23305275) for every version, resolving to the newest; each version has its own on Zenodo.
+This is the collection behind [museumofmodels.com](https://museumofmodels.com), as published there. Version 1.1.0. DOI [10.5281/zenodo.23310442](https://doi.org/10.5281/zenodo.23310442); [10.5281/zenodo.23305275](https://doi.org/10.5281/zenodo.23305275) always points to the newest version.
 
 ## What is in it
 
@@ -114,7 +114,7 @@ Answers are kept as they were given. Some are wrong, some are odd, a few may be 
 
 ## How to cite
 
-Museum of Models. (2026). *Museum of Models collection* (Version 1.1.0) [Data set]. https://doi.org/10.5281/zenodo.23305275
+Museum of Models. (2026). *Museum of Models collection* (Version 1.1.0) [Data set]. https://doi.org/10.5281/zenodo.23310442
 
 ```bibtex
 @misc{museum_of_models_collection,
@@ -122,8 +122,8 @@ Museum of Models. (2026). *Museum of Models collection* (Version 1.1.0) [Data se
   author       = {{Museum of Models}},
   year         = {2026},
   version      = {1.1.0},
-  doi          = {10.5281/zenodo.23305275},
-  url          = {https://doi.org/10.5281/zenodo.23305275},
+  doi          = {10.5281/zenodo.23310442},
+  url          = {https://doi.org/10.5281/zenodo.23310442},
   note         = {CC BY 4.0. https://museumofmodels.com}
 }
 ```
@@ -132,6 +132,6 @@ Museum of Models. (2026). *Museum of Models collection* (Version 1.1.0) [Data se
 
 Each version is a snapshot of the collection on the day it was published. Answer ids do not change between versions; new models and questions are added, and corrections are listed here.
 
-- **1.1.0** (2026-10-12): 103 new answers and 1 new model (GPT-4 Turbo); 15,908 answers from 378 models in all. OpenAI removes GPT-4, GPT-4 Turbo, GPT-3.5 Turbo, o1, o3-mini, o4-mini and GPT-4.1 nano from its API on 2026-10-23. Before that, each was asked the current questions it had not answered, and GPT-4 Turbo was added.
+- **1.1.0** (2026-10-12): 103 new answers and 1 new model (GPT-4 Turbo); 15,908 answers from 378 models in all. OpenAI removes GPT-4, GPT-4 Turbo, GPT-3.5 Turbo, o1, o3-mini, o4-mini and GPT-4.1 nano from its API on 2026-10-23. Before that, each was asked the current questions it had not answered, and GPT-4 Turbo was added. DOI 10.5281/zenodo.23310442.
 - **1.0.1** (2026-10-11): Moved to github.com/museumofmodels/collection, the museum's own organization; the README and citation files carry the DOI. The data is unchanged. DOI 10.5281/zenodo.23306049.
 - **1.0.0** (2026-10-11): First public version. DOI 10.5281/zenodo.23305276.
