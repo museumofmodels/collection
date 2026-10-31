@@ -28,19 +28,19 @@ Every answer every model gave to the same questions, kept after the models are g
 
 https://github.com/user-attachments/assets/f1b7d068-54f7-4304-8636-9427068b2274
 
-18,467 answers from 381 models to 100 questions, asked between 2024-05-23 and 2026-10-23. 103 of the models are retired: OpenRouter no longer serves them, and unless their weights were published nobody can ask them anything again. Their answers are here.
+18,538 answers from 382 models to 100 questions, asked between 2024-05-23 and 2026-10-31. 113 of the models are retired: OpenRouter no longer serves them, and unless their weights were published nobody can ask them anything again. Their answers are here.
 
-This is the collection behind [museumofmodels.com](https://museumofmodels.com), as published there. Version 1.5.0. DOI [10.5281/zenodo.23605590](https://doi.org/10.5281/zenodo.23605590); [10.5281/zenodo.23305275](https://doi.org/10.5281/zenodo.23305275) always points to the newest version.
+This is the collection behind [museumofmodels.com](https://museumofmodels.com), as published there. Version 1.6.0. DOI [10.5281/zenodo.23305275](https://doi.org/10.5281/zenodo.23305275) for every version, resolving to the newest; each version has its own on Zenodo.
 
 ## What is in it
 
 | Kind | Answers | Kept as |
 |---|---:|---|
-| Drawings | 2,172 | the model's full reply, which holds an SVG |
-| Websites | 5,082 | the model's HTML, plus a screenshot |
+| Drawings | 2,181 | the model's full reply, which holds an SVG |
+| Websites | 5,102 | the model's HTML, plus a screenshot |
 | Images | 1,023 | the image file the model returned |
-| Writing | 9,918 | the model's text, usually Markdown |
-| Code | 188 | the model's text |
+| Writing | 9,959 | the model's text, usually Markdown |
+| Code | 189 | the model's text |
 | Voices and music | 84 | the audio file the model returned |
 
 The questions are things like: draw a pelican riding a bicycle as an SVG, build a landing page in one HTML file, tell five jokes, name a favourite film. Each was put to every model the same way. The collection is meant for looking at how models answered over time, not for ranking them. There are no scores in it.
@@ -114,16 +114,16 @@ Answers are kept as they were given. Some are wrong, some are odd, a few may be 
 
 ## How to cite
 
-Museum of Models. (2026). *Museum of Models collection* (Version 1.5.0) [Data set]. https://doi.org/10.5281/zenodo.23605590
+Museum of Models. (2026). *Museum of Models collection* (Version 1.6.0) [Data set]. https://doi.org/10.5281/zenodo.23305275
 
 ```bibtex
 @misc{museum_of_models_collection,
   title        = {Museum of Models collection},
   author       = {{Museum of Models}},
   year         = {2026},
-  version      = {1.5.0},
-  doi          = {10.5281/zenodo.23605590},
-  url          = {https://doi.org/10.5281/zenodo.23605590},
+  version      = {1.6.0},
+  doi          = {10.5281/zenodo.23305275},
+  url          = {https://doi.org/10.5281/zenodo.23305275},
   note         = {CC BY 4.0. https://museumofmodels.com}
 }
 ```
@@ -132,6 +132,7 @@ Museum of Models. (2026). *Museum of Models collection* (Version 1.5.0) [Data se
 
 Each version is a snapshot of the collection on the day it was published. Answer ids do not change between versions; new models and questions are added, and corrections are listed here.
 
+- **1.6.0** (2026-10-31): 71 new answers and 1 new model (GPT-6.1 Terra); 18,538 answers from 382 models in all.
 - **1.5.0** (2026-10-23): 63 new answers and 1 new model (Kimi K3.1 Pro); 18,467 answers from 381 models in all. DOI 10.5281/zenodo.23605590.
 - **1.4.0** (2026-10-13): 71 new answers and 1 new model (Gemini 4 Argon); 18,404 answers from 380 models in all. Argon answered the full current text challenge suite. DOI 10.5281/zenodo.23347132.
 - **1.3.0** (2026-10-12): 71 new answers and 1 new model (Muse Wonder); 18,333 answers from 379 models in all. DOI 10.5281/zenodo.23325494.

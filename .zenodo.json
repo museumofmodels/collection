@@ -6,10 +6,10 @@
       "name": "Museum of Models"
     }
   ],
-  "description": "<p>Every answer every model gave to the same questions, kept after the models are gone.</p><p>18,467 answers from 381 models to 100 questions, asked between 2024-05-23 and 2026-10-23. 103 of the models are retired: OpenRouter no longer serves them. Drawings as SVG, websites as HTML with screenshots, images, writing, code and audio, each kept as it was given. The collection behind <a href=\"https://museumofmodels.com\">museumofmodels.com</a>.</p>",
+  "description": "<p>Every answer every model gave to the same questions, kept after the models are gone.</p><p>18,538 answers from 382 models to 100 questions, asked between 2024-05-23 and 2026-10-31. 113 of the models are retired: OpenRouter no longer serves them. Drawings as SVG, websites as HTML with screenshots, images, writing, code and audio, each kept as it was given. The collection behind <a href=\"https://museumofmodels.com\">museumofmodels.com</a>.</p>",
   "license": "cc-by-4.0",
   "access_right": "open",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "language": "eng",
   "keywords": [
     "language models",
