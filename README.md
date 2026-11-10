@@ -28,16 +28,16 @@ Every answer every model gave to the same questions, kept after the models are g
 
 https://github.com/user-attachments/assets/f1b7d068-54f7-4304-8636-9427068b2274
 
-18,770 answers from 385 models to 100 questions, asked between 2024-05-23 and 2026-11-10. 121 of the models are retired: OpenRouter no longer serves them, and unless their weights were published nobody can ask them anything again. Their answers are here.
+18,773 answers from 385 models to 100 questions, asked between 2024-05-23 and 2026-11-10. 121 of the models are retired: OpenRouter no longer serves them, and unless their weights were published nobody can ask them anything again. Their answers are here.
 
-This is the collection behind [museumofmodels.com](https://museumofmodels.com), as published there. Version 1.7.0. DOI [10.5281/zenodo.24112371](https://doi.org/10.5281/zenodo.24112371); [10.5281/zenodo.23305275](https://doi.org/10.5281/zenodo.23305275) always points to the newest version.
+This is the collection behind [museumofmodels.com](https://museumofmodels.com), as published there. Version 1.8.0. DOI [10.5281/zenodo.23305275](https://doi.org/10.5281/zenodo.23305275) for every version, resolving to the newest; each version has its own on Zenodo.
 
 ## What is in it
 
 | Kind | Answers | Kept as |
 |---|---:|---|
 | Drawings | 2,209 | the model's full reply, which holds an SVG |
-| Websites | 5,165 | the model's HTML, plus a screenshot |
+| Websites | 5,168 | the model's HTML, plus a screenshot |
 | Images | 1,023 | the image file the model returned |
 | Writing | 10,095 | the model's text, usually Markdown |
 | Code | 194 | the model's text |
@@ -114,16 +114,16 @@ Answers are kept as they were given. Some are wrong, some are odd, a few may be 
 
 ## How to cite
 
-Museum of Models. (2026). *Museum of Models collection* (Version 1.7.0) [Data set]. https://doi.org/10.5281/zenodo.24112371
+Museum of Models. (2026). *Museum of Models collection* (Version 1.8.0) [Data set]. https://doi.org/10.5281/zenodo.23305275
 
 ```bibtex
 @misc{museum_of_models_collection,
   title        = {Museum of Models collection},
   author       = {{Museum of Models}},
   year         = {2026},
-  version      = {1.7.0},
-  doi          = {10.5281/zenodo.24112371},
-  url          = {https://doi.org/10.5281/zenodo.24112371},
+  version      = {1.8.0},
+  doi          = {10.5281/zenodo.23305275},
+  url          = {https://doi.org/10.5281/zenodo.23305275},
   note         = {CC BY 4.0. https://museumofmodels.com}
 }
 ```
@@ -132,6 +132,7 @@ Museum of Models. (2026). *Museum of Models collection* (Version 1.7.0) [Data se
 
 Each version is a snapshot of the collection on the day it was published. Answer ids do not change between versions; new models and questions are added, and corrections are listed here.
 
+- **1.8.0** (2026-11-10): 3 new answers; 18,773 answers from 385 models in all. Claude Fable 5.2 answers three more web pages: Pokémon battle, Mario level and retro macOS, asked again with room for longer answers.
 - **1.7.0** (2026-11-10): 232 new answers and 3 new models (Claude Fable 5.2, Gemini 2.5 Flash, Gemini 2.5 Pro); 18,770 answers from 385 models in all. Claude Fable 5.2 joins with 67 answers. The final Gemini 2.5 Pro and Gemini 2.5 Flash, Claude Sonnet 4.5, GPT-5 and o3 were asked what they had not answered before they leave between Nov 30 and Dec 11. DOI 10.5281/zenodo.24112371.
 - **1.6.0** (2026-10-31): 71 new answers and 1 new model (GPT-6.1 Terra); 18,538 answers from 382 models in all. DOI 10.5281/zenodo.23828158.
 - **1.5.0** (2026-10-23): 63 new answers and 1 new model (Kimi K3.1 Pro); 18,467 answers from 381 models in all. DOI 10.5281/zenodo.23605590.
